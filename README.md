@@ -5,6 +5,10 @@ This project focuses on analyzing pharmaceutical sales data to uncover trends in
   
 We combine **SQL (MySQL Workbench** for querying and data extraction and **Python (Pandas, Matplotlib, Seaborn, Scikit-learn)** for analysis, visualization and forecasting.
 
+
+## Dataset
+- Source: [Kaggle – Sample Pharmaceutical Drug Sales Dataset](https://www.kaggle.com/datasets/jewelzufo/sample-pharmaceutical-drug-sales)
+  
 ---
 
 ## 🔑 Objectives
