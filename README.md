@@ -70,13 +70,22 @@ We combine **SQL (MySQL Workbench** for querying and data extraction and **Pytho
 ---
 
 ## 📁 Repository Structure
-images/                         # Visualizations
-Sample_Pharmaceutical_Drug_Sales.csv              # Raw data
-top_5_drugs.csv    #SQL output      
-total_revenue_by_region.csv           # SQL output
-customer_type_revenue.csv    # SQL output
-monthly_revenue.csv             # SQL output
-manufacturer_revenue.csv             # SQL output
-Drug_Sales_Analysis.ipynb       # Jupyter notebook
-Drug_Sales_Analysis.sql          # SQL queries
-README.md                       # Project description
+images/           #Visualizations
+
+Sample_Pharmaceutical_Drug_Sales.csv              #Raw data
+
+top_5_drugs.csv            #SQL output 
+
+total_revenue_by_region.csv #SQL output
+
+customer_type_revenue.csv   #SQL output
+
+monthly_revenue.csv         #SQL output
+
+manufacturer_revenue.csv    #SQL output
+
+Drug_Sales_Analysis.ipynb   # Jupyter notebook
+
+Drug_Sales_Analysis.sql    #SQL queries
+
+README.md                  # Project description
