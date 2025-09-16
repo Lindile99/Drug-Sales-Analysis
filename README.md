@@ -45,7 +45,7 @@ We combine **SQL (MySQL Workbench** for querying and data extraction and **Pytho
 ---
 
 ## 📊 Key Visualizations
--Revenue by region(bar chart)
+- Revenue by region(bar chart)
 - Top-selling drugs (bar chart)  
 - Revenue by manufacturer (bar chart)  
 - Sales trends over time (line chart)  
@@ -55,7 +55,7 @@ We combine **SQL (MySQL Workbench** for querying and data extraction and **Pytho
 ---
 
 ## 📌 Results & Insights
--Identified top-performing regions.
+- Identified top-performing regions.
 - Identified leading drugs and manufacturers contributing most to revenue.  
 - Observed seasonal sales fluctuations across months.  
 - Customer distribution revealed **Pharmacy vs Supermarkets** demand differences.  
